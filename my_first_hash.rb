@@ -1,6 +1,5 @@
 def my_hash
   my_hash = {"a number" = 8}
-  
 end
 
 
